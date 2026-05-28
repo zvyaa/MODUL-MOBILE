@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Calculator_XML</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="tip_percentage">Tip Percentage</string>
+    <style name="Base.Theme.TipCalculatorXML" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.TipCalculatorXML" parent="Base.Theme.TipCalculatorXML"/>
+</resources>

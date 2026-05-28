@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.tipcalculator.CoroutinesTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-04-19T15:27:10.150Z" hostname="MYBOOKHYPE" time="0.294">
+  <properties/>
+  <testcase name="testFetchUserDataZero" classname="com.example.tipcalculator.CoroutinesTest" time="0.294"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

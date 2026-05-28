@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id autoCompleteTipPercentage
+id etInputAmount
+id switchRoundUp
+id tvTipResult
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string bill_amount
+string calculate_tip
+string round_up_tip
+string tip_amount
+string tip_percentage
+style Base.Theme.TipCalculatorXML
+style Theme.TipCalculatorXML
+xml backup_rules
+xml data_extraction_rules
