@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.MyComicAppXML" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#6650A4</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorPrimaryContainer">#EADDFF</item>
+        <item name="colorOnPrimaryContainer">#21005D</item>
+    </style>
+</resources>

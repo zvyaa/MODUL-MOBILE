@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Aplikasi Komik</string>
+    <string name="title_highlight">Komik Unggulan</string>
+    <string name="title_all_comics">Semua Komik</string>
+    <string name="btn_read">Baca</string>
+    <string name="btn_detail">Detail</string>
+    <string name="label_genre">Genre: </string>
+    <string name="label_author">Penulis: </string>
+    <string name="label_year">Tahun: </string>
+    <string name="label_synopsis">Sinopsis: </string>
+    <string name="title_detail">Detail Komik</string>
+    <string name="title_language">Pilih Bahasa</string>
+    <string name="btn_english">Inggris</string>
+    <string name="btn_indonesian">Indonesia</string>
+    <string name="cd_comic_cover">Sampul Komik</string>
+    <string name="label_release_year">Tahun Rilis: </string>
+    <string name="synopsis_like_mother">Seorang anak menemukan rahasia gelap tentang ibunya yang mengubah segalanya yang ia kira telah diketahuinya.</string>
+    <string name="synopsis_real_lesson">Seorang mantan petarung menjadi guru dan harus melindungi murid-muridnya dari kekuatan berbahaya.</string>
+    <string name="synopsis_wee">Kisah-kisah mengharukan tentang kehidupan sehari-hari dan kebahagiaan kecil yang membuatnya indah.</string>
+    <string name="synopsis_villainess">Seorang penjahat mendapat kesempatan kedua dan menggunakannya untuk menulis ulang takdirnya yang tragis.</string>
+    <string name="synopsis_stepmother">Seorang ibu tiri yang menyembunyikan kekuatan sejatinya harus menavigasi dunia penuh intrik politik.</string>
+</resources>

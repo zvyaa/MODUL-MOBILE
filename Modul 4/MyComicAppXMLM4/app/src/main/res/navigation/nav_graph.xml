@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/comicListFragment">
+
+    <fragment
+        android:id="@+id/comicListFragment"
+        android:name="com.example.mycomicappxmlm4.ui.ComicListFragment"
+        android:label="Comic List"
+        tools:layout="@layout/fragment_comic_list"
+        xmlns:tools="http://schemas.android.com/tools">
+
+        <action
+            android:id="@+id/action_comicListFragment_to_comicDetailFragment"
+            app:destination="@id/comicDetailFragment"/>
+
+        <action
+            android:id="@+id/action_comicListFragment_to_languageFragment"
+            app:destination="@id/languageFragment"/>
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/comicDetailFragment"
+        android:name="com.example.mycomicappxmlm4.ui.ComicDetailFragment"
+        android:label="Comic Detail"
+        tools:layout="@layout/fragment_comic_detail"
+        xmlns:tools="http://schemas.android.com/tools"/>
+
+    <fragment
+        android:id="@+id/languageFragment"
+        android:name="com.example.mycomicappxmlm4.ui.LanguageFragment"
+        android:label="Language"
+        tools:layout="@layout/fragment_language"
+        xmlns:tools="http://schemas.android.com/tools"/>
+
+</navigation>
